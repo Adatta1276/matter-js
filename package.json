@@ -22,7 +22,7 @@
   "devDependencies": {
     "conventional-changelog-cli": "^2.1.1",
     "eslint": "^6.8.0",
-    "html-webpack-plugin": "^4.5.1",
+    "html-webpack-plugin": "^5.5.0",
     "jest": "^25.1.0",
     "jest-worker": "^24.9.0",
     "json-stringify-pretty-compact": "^2.0.0",
@@ -33,9 +33,9 @@
     "poly-decomp": "^0.3.0",
     "puppeteer-core": "^5.5.0",
     "terser-webpack-plugin": "^4.2.3",
-    "webpack": "^4.46.0",
+    "webpack": "^5.75.0",
     "webpack-bundle-analyzer": "^4.4.0",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.11.1"
   },
   "scripts": {
